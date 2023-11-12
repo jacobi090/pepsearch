@@ -1,4 +1,4 @@
-// Forked & modified from https://github.com/clickette/main under CC-BY-SA 4.0
+// Forked & modified from https://github.com/forjed/clickette-main under CC-BY-SA 4.0
 function getUrlParameter(sParam) {
     var sPageURL = window.location.search.substring(1);
     var sURLVariables = sPageURL.split('&');
